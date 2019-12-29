@@ -83,6 +83,10 @@ namespace Aula_DateTime
             Console.WriteLine("Data UTC: " + data.ToUniversalTime());
             Console.WriteLine("Data local: " + data.ToLocalTime());
 
+            //Nova data para teste
+            DateTime git = new DateTime(2019-12-27);
+            Console.WriteLine("Data de modificação do GIT: " + git);
+
 
 
 
